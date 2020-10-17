@@ -1,3 +1,50 @@
 article {
     margin-top: 135px;
 }
+#char {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.fa {
+    font-size: 3em;
+}
+#titleFooter {
+    color: aqua;
+}
+#unTitleFooter {
+    color: red;
+}
+#downSide {
+    background-color: black;
+    text-align: center;
+}
+#LTDcolor {
+    color: white;
+}
+#inEmail {
+    width: 400px;
+    height: 42px;
+}
+.butEmail {
+    margin-left: 20px;
+    width: 110px;
+    height: 50px;
+}
+.bgUpper {
+    background-image: url(img/background.jpg);
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+#firstI {
+    margin-right: 120px;
+}
+#ipad {
+    margin-top: 30px;
+    margin-left: 100px;
+    width: 600px;
+    height: 600px;
+}
+ul.navbar-nav>li.nav-item {
+    margin-left: 120px;
+}
