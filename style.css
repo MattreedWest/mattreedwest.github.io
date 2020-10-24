@@ -1,14 +1,18 @@
 article {
-    margin-top: 135px;
+    margin-top: 11rem;
 }
 #char {
     text-align: center;
-    margin-top: 40px;
-    margin-bottom: 40px;
+    margin-top: 4rem;
+    margin-bottom: 3rem;
 }
-.fa {
-    font-size: 3em;
+#headerIcons>ul>li>.fa {
+    font-size: 3rem;
 }
+.col-4>.fa {
+    font-size: 2rem;
+}
+
 #titleFooter {
     color: aqua;
 }
@@ -21,20 +25,25 @@ article {
 }
 #LTDcolor {
     color: white;
+    margin-bottom: 0rem;
 }
 #inEmail {
-    width: 400px;
-    height: 42px;
+    width: 395px;
+    height: 52px;
 }
 .butEmail {
     margin-left: 20px;
     width: 110px;
     height: 50px;
 }
-.bgUpper {
+body {
     background-image: url(img/background.jpg);
     background-size: cover;
     background-repeat:no-repeat;
+}
+
+#info{
+    background-color: white;
 }
 #firstI {
     margin-right: 120px;
@@ -47,4 +56,15 @@ article {
 }
 ul.navbar-nav>li.nav-item {
     margin-left: 120px;
+}
+
+#headerIcons {
+    margin-top: 8rem;
+}
+#headerIcons>ul {
+    list-style-type: none;
+}
+#headerIcons>ul>li {
+    padding-right: 1.5rem;
+    display: inline;
 }
