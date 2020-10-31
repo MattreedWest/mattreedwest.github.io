@@ -1,0 +1,41 @@
+.emailNbutt {
+    margin-top: 1.5rem;
+}
+.butEmail {
+    margin-left: 1.5rem;
+    width: 110px;
+    height: 50px;
+}
+#inEmail {
+    width: 395px;
+    height: 52px;
+}
+#LTDcolor {
+    color: white;
+    margin-top: 1.5rem;
+    margin-bottom: 2.5rem;
+}
+#downSide {
+    background-color: black;
+}
+#titleFooter {
+    color: aqua;
+    margin-top: 2rem;
+}
+#unTitleFooter {
+    color: red;
+}
+.container>.row>.col {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+body {
+    background-image: url(../../img/background.jpg);
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+
+#imgSet img{
+    width: 300px;
+    margin-bottom: 2rem;
+}
