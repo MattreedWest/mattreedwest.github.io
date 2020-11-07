@@ -39,3 +39,13 @@ body {
     width: 300px;
     margin-bottom: 2rem;
 }
+.carousel-inner>.carousel-item>img{
+    width: 1110px;
+    height: 460px;
+}
+.carousel-inner>.carousel-item {
+    width: 1200px;
+}
+.carouselSize>.row>.col>#carouselExampleSlidesOnly {
+    margin-left: 54px;
+}
