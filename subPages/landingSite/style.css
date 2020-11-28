@@ -1,0 +1,79 @@
+article {
+    margin-top: 11rem;
+}
+#char {
+    margin-top: 4rem;
+    margin-bottom: 3rem;
+}
+#headerIcons>ul>li>.fa {
+    font-size: 3rem;
+}
+.col-4>.fa {
+    font-size: 2rem;
+}
+
+#titleFooter {
+    color: aqua;
+    margin-top: 2rem;
+}
+#unTitleFooter {
+    color: red;
+}
+#downSide {
+    background-color: black;
+}
+#LTDcolor {
+    color: white;
+    margin-top: 1.5rem;
+    margin-bottom: 2.5rem;
+}
+#inEmail {
+    width: 395px;
+    height: 52px;
+}
+.butEmail {
+    margin-left: 1.5rem;
+    width: 110px;
+    height: 50px;
+}
+body {
+    background-image: url(img/background.jpg);
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+
+#info{
+    background-color: white;
+}
+#firstI {
+    margin-right: 120px;
+}
+#ipad {
+    margin-top: 1.6rem;
+    margin-left: 6rem;
+    width: 600px;
+    height: 600px;
+}
+ul.navbar-nav>li.nav-item {
+    margin-left: 7.6rem;
+}
+
+#headerIcons {
+    margin-top: 8rem;
+}
+#headerIcons>ul {
+    list-style-type: none;
+}
+#headerIcons>ul>li {
+    padding-right: 1.5rem;
+    display: inline;
+}
+#info>.container>.row>.col {
+    margin-top: 3rem;
+}
+.emailNbutt {
+    margin-top: 1.5rem;
+}
+.charCont {
+    padding-bottom: 4rem;
+}
