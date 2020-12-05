@@ -1,0 +1,33 @@
+a {
+    padding: 15px;
+    font-size: 30pt;
+}
+
+header {
+    height: 1920px;
+    width: 1080px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.about {
+    margin-top: 200px;
+}
+
+#titleOfMe {
+    color: brown;
+    height: 75px;
+    width: 455px;
+    margin-left: 370px;
+    border-radius: 15px;
+    border-color: green;
+}
+
+.col-2>img {
+    width: 80px;
+    height: 70px;
+}
+#textOfMe {
+    text-align: center;
+    width: 200px;
+}
