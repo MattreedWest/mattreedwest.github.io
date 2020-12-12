@@ -1,6 +1,16 @@
+nav {
+    width: 1888px;
+}
+
+.nav-link>a {
+  color: aqua;
+}
 a {
     padding: 15px;
     font-size: 30pt;
+}
+a.nav-link {
+    color: chartreuse;
 }
 
 header {
@@ -10,11 +20,13 @@ header {
     background-repeat: no-repeat;
 }
 
-.about {
-    margin-top: 200px;
+#about_me {
+  margin-left: 225px;
+    margin-top: 182px;
 }
 
-#titleOfMe {
+h1{
+    font-size: 3.5rem;
     color: brown;
     height: 75px;
     width: 455px;
@@ -23,11 +35,13 @@ header {
     border-color: green;
 }
 
-.col-2>img {
-    width: 80px;
-    height: 70px;
+.col-5>h1 {
+    text-align: justify;
 }
-#textOfMe {
-    text-align: center;
-    width: 200px;
+.col-5>span {
+    text-align: justify;
+    font-size:17pt;
+}
+#imgs>img {
+    padding: 20px;
 }
